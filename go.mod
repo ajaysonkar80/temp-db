@@ -1,4 +1,4 @@
-module github.com/ajaysonkar80/temp-db/db
+module github.com/ajaysonkar80/temp-db
 
 go 1.22.5
 
