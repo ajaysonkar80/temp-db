@@ -1,4 +1,4 @@
-module github.com/railway-fiber/fiber/db
+module github.com/ajaysonkar80/temp-db/db
 
 go 1.22.5
 
